@@ -1,3 +1,10 @@
+## Table of contents
+* [Overview](#Overview)
+* [Concept](#Concept)
+* [Technical Details](#Technical-Details)
+* [Code Breakdown](#code-breakdown)
+* [Inspiration](#Inspiration)
+
 # Overview
 This project reimagines “This Is How It Feels” by d4vd and Laufey through a custom-coded composition in TunePad. It focuses on blending melodic piano phrasing with subtle harmonic progressions to capture the song’s introspective and cinematic tone while adding a personal reinterpretation through timing, chord voicing, and rhythm variation. The piece was created as part of a music coding and composition task, demonstrating how Python-based music logic can be used to reconstruct and reinterpret contemporary music.
 
