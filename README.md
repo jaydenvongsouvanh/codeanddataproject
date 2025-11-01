@@ -27,7 +27,7 @@ The code is broken down into 3 sections, intor, verse and chorus. Each section i
 Right hand tracks represent melody
 Left hand tracks represent the songs harmonic rhythm and bass foundation
 Chorus uses repetitive ascending notes and structure to emulate a string-like swell effect
-E.g. 
+#### Code Example
 playNote(54, beats=0.00, sustain=1.5)
 playNote(57, beats=1.5)
 playNote(64, beats=0.5)
